@@ -1,2 +1,2 @@
-# -javaSwingGUI-learn-shop
-学校实训课java swing开发代码
+# java-swing-shop
+学校实训课java swingGUI开发代码
